@@ -1,6 +1,6 @@
 # ihcux-racha-ai
 
-# ihcux-racha-ai
+
 
 ## Nome do Aluno
 
